@@ -1,10 +1,7 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-light.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-dark.png" />
-    <img src="assets/logo-dark.png" alt="AGENSTAB" width="280" />
-  </picture>
+  <img src="assets/logo.png" alt="AGENSTAB" width="280" />
   <br /><br />
+
 
   <p><strong>The sovereign browsing engine for autonomous agents.</strong></p>
   <p>Give your AI agent eyes and hands on the web. <br />AXTree-first. WebSocket-native. Enterprise-grade.</p>
