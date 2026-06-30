@@ -457,7 +457,7 @@ Full protocol docs: [docs/rpc-protocol.md](docs/rpc-protocol.md)
 ## 🔒 Security
 
 - **Zero-retention** — Session data is not persisted after termination
-- **AES-256-GCM** — All audit logs encrypted via AWS KMS
+- **AES-256-GCM** — All audit logs encrypted at rest
 - **robots.txt** — RFC 9309 compliant enforcement
 - **PII redaction** — Automatic masking before data leaves sandbox
 - **SOC 2** — Audit in progress, available Q3 2026
