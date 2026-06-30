@@ -11,12 +11,8 @@
   <p>
     <a href="https://agenstab.com"><img src="https://img.shields.io/badge/🌐_Website-agenstab.com-000?style=for-the-badge" alt="Website" /></a>
     <a href="https://agenstab.com/docs.html"><img src="https://img.shields.io/badge/📖_Docs-Reference-000?style=for-the-badge" alt="Docs" /></a>
-    <a href="https://discord.gg/agenstab"><img src="https://img.shields.io/badge/💬_Discord-Community-5865F2?style=for-the-badge" alt="Discord" /></a>
   </p>
   <p>
-    <a href="https://pypi.org/project/agens-tab/"><img src="https://img.shields.io/badge/pip_install-agens--tab-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyPI" /></a>
-    <a href="https://www.npmjs.com/package/@agenstab/sdk"><img src="https://img.shields.io/badge/npm_install-@agenstab/sdk-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
-    <a href="https://github.com/agenstab/agenstab-go"><img src="https://img.shields.io/badge/go_get-agenstab--go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /></a>
     <a href="https://github.com/agenstab/agenstab-official/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Source_Available-white?style=flat-square" alt="License" /></a>
   </p>
 
@@ -31,18 +27,6 @@
     <a href="#-examples">Examples</a>
   </p>
 </div>
-
-<br />
-
----
-
-<br />
-
-## 🎬 Demo
-
-https://github.com/user-attachments/assets/demo-placeholder
-
-> An AI agent navigating SAP Fiori, filling a procurement form, and submitting an order — using only AXTree semantic primitives. No CSS selectors. No screenshots. [Watch on YouTube →](https://youtube.com/@agenstab)
 
 <br />
 
@@ -458,10 +442,9 @@ Full protocol docs: [docs/rpc-protocol.md](docs/rpc-protocol.md)
 
 - **Zero-retention** — Session data is not persisted after termination
 - **AES-256-GCM** — All audit logs encrypted at rest
-- **robots.txt** — RFC 9309 compliant enforcement
+- **robots.txt** — Respects site-owner directives; enforcement is a shared responsibility between AGENSTAB and the operator
 - **PII redaction** — Automatic masking before data leaves sandbox
-- **SOC 2** — Audit in progress, available Q3 2026
-- **HIPAA/GDPR-ready** — BAA available for Enterprise
+- **Compliance** — GDPR and HIPAA-ready architecture; BAA available for Enterprise on request
 
 [Security policy →](SECURITY.md) · [Report a vulnerability →](mailto:security@agenstab.com)
 
@@ -496,10 +479,7 @@ Source-available under [proprietary license](LICENSE). Free tier available at [a
   <strong>Built for machines. Operated by agents. Governed by you.</strong>
   <br /><br />
   <a href="https://agenstab.com">Website</a> ·
-  <a href="https://agenstab.com/docs.html">Documentation</a> ·
-  <a href="https://discord.gg/agenstab">Discord</a> ·
-  <a href="https://twitter.com/agenstab">Twitter</a> ·
-  <a href="https://youtube.com/@agenstab">YouTube</a>
+  <a href="https://agenstab.com/docs.html">Documentation</a>
   <br /><br />
   <sub>If AGENSTAB helps your work, consider giving us a ⭐</sub>
 </div>
