@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="assets/logo.png" alt="AGENSTAB" width="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-light.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-dark.png" />
+    <img src="assets/logo-dark.png" alt="AGENSTAB" width="280" />
+  </picture>
   <br /><br />
+
 
   <h1>AGENSTAB</h1>
 
