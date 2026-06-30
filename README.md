@@ -6,9 +6,6 @@
   </picture>
   <br /><br />
 
-
-  <h1>AGENSTAB</h1>
-
   <p><strong>The sovereign browsing engine for autonomous agents.</strong></p>
   <p>Give your AI agent eyes and hands on the web. <br />AXTree-first. WebSocket-native. Enterprise-grade.</p>
 
